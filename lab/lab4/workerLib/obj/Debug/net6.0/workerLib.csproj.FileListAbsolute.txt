@@ -1,0 +1,12 @@
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab4/workerLib/obj/Debug/net6.0/workerLib.csproj.AssemblyReference.cache
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab4/workerLib/obj/Debug/net6.0/workerLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab4/workerLib/obj/Debug/net6.0/workerLib.AssemblyInfoInputs.cache
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab4/workerLib/obj/Debug/net6.0/workerLib.AssemblyInfo.cs
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab4/workerLib/obj/Debug/net6.0/workerLib.csproj.CoreCompileInputs.cache
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab4/workerLib/bin/Debug/net6.0/workerLib.deps.json
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab4/workerLib/bin/Debug/net6.0/workerLib.dll
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab4/workerLib/bin/Debug/net6.0/ref/workerLib.dll
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab4/workerLib/bin/Debug/net6.0/workerLib.pdb
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab4/workerLib/obj/Debug/net6.0/workerLib.dll
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab4/workerLib/obj/Debug/net6.0/ref/workerLib.dll
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab4/workerLib/obj/Debug/net6.0/workerLib.pdb

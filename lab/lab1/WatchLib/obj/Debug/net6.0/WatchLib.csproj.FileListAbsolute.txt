@@ -1,0 +1,12 @@
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab1/WatchLib/bin/Debug/net6.0/WatchLib.deps.json
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab1/WatchLib/bin/Debug/net6.0/WatchLib.dll
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab1/WatchLib/bin/Debug/net6.0/ref/WatchLib.dll
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab1/WatchLib/bin/Debug/net6.0/WatchLib.pdb
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab1/WatchLib/obj/Debug/net6.0/WatchLib.csproj.AssemblyReference.cache
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab1/WatchLib/obj/Debug/net6.0/WatchLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab1/WatchLib/obj/Debug/net6.0/WatchLib.AssemblyInfoInputs.cache
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab1/WatchLib/obj/Debug/net6.0/WatchLib.AssemblyInfo.cs
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab1/WatchLib/obj/Debug/net6.0/WatchLib.csproj.CoreCompileInputs.cache
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab1/WatchLib/obj/Debug/net6.0/WatchLib.dll
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab1/WatchLib/obj/Debug/net6.0/ref/WatchLib.dll
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab1/WatchLib/obj/Debug/net6.0/WatchLib.pdb

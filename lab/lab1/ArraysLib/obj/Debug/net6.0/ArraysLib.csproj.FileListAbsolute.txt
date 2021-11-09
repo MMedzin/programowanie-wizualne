@@ -1,0 +1,12 @@
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab1/ArraysLib/bin/Debug/net6.0/ArraysLib.deps.json
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab1/ArraysLib/bin/Debug/net6.0/ArraysLib.dll
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab1/ArraysLib/bin/Debug/net6.0/ref/ArraysLib.dll
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab1/ArraysLib/bin/Debug/net6.0/ArraysLib.pdb
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab1/ArraysLib/obj/Debug/net6.0/ArraysLib.csproj.AssemblyReference.cache
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab1/ArraysLib/obj/Debug/net6.0/ArraysLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab1/ArraysLib/obj/Debug/net6.0/ArraysLib.AssemblyInfoInputs.cache
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab1/ArraysLib/obj/Debug/net6.0/ArraysLib.AssemblyInfo.cs
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab1/ArraysLib/obj/Debug/net6.0/ArraysLib.csproj.CoreCompileInputs.cache
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab1/ArraysLib/obj/Debug/net6.0/ArraysLib.dll
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab1/ArraysLib/obj/Debug/net6.0/ref/ArraysLib.dll
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab1/ArraysLib/obj/Debug/net6.0/ArraysLib.pdb

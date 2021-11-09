@@ -1,0 +1,126 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "ArraysLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ArraysLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ArraysLib.dll": {}
+        }
+      },
+      "TypesLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/TypesLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TypesLib.dll": {}
+        }
+      },
+      "WatchLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/WatchLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WatchLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArraysLib/1.0.0": {
+      "type": "project",
+      "path": "../ArraysLib/ArraysLib.csproj",
+      "msbuildProject": "../ArraysLib/ArraysLib.csproj"
+    },
+    "TypesLib/1.0.0": {
+      "type": "project",
+      "path": "../TypesLib/TypesLib.csproj",
+      "msbuildProject": "../TypesLib/TypesLib.csproj"
+    },
+    "WatchLib/1.0.0": {
+      "type": "project",
+      "path": "../WatchLib/WatchLib.csproj",
+      "msbuildProject": "../WatchLib/WatchLib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "ArraysLib >= 1.0.0",
+      "TypesLib >= 1.0.0",
+      "WatchLib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/mikemedzin/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab1/App/App.csproj",
+      "projectName": "App",
+      "projectPath": "/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab1/App/App.csproj",
+      "packagesPath": "/Users/mikemedzin/.nuget/packages/",
+      "outputPath": "/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab1/App/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/mikemedzin/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab1/ArraysLib/ArraysLib.csproj": {
+              "projectPath": "/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab1/ArraysLib/ArraysLib.csproj"
+            },
+            "/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab1/TypesLib/TypesLib.csproj": {
+              "projectPath": "/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab1/TypesLib/TypesLib.csproj"
+            },
+            "/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab1/WatchLib/WatchLib.csproj": {
+              "projectPath": "/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab1/WatchLib/WatchLib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100-preview.3.21202.5/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

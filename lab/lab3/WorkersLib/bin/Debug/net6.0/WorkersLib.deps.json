@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WorkersLib/1.0.0": {
+        "dependencies": {
+          "Printables": "1.0.0"
+        },
+        "runtime": {
+          "WorkersLib.dll": {}
+        }
+      },
+      "Printables/1.0.0": {
+        "runtime": {
+          "Printables.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WorkersLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Printables/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

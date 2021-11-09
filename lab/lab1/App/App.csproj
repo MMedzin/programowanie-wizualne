@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\TypesLib\TypesLib.csproj" />
+    <ProjectReference Include="..\WatchLib\WatchLib.csproj" />
+    <ProjectReference Include="..\ArraysLib\ArraysLib.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>

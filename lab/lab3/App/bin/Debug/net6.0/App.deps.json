@@ -1,0 +1,76 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "App/1.0.0": {
+        "dependencies": {
+          "MathLib": "1.0.0",
+          "OfficeLib": "1.0.0",
+          "Printables": "1.0.0",
+          "WorkersLib": "1.0.0"
+        },
+        "runtime": {
+          "App.dll": {}
+        }
+      },
+      "MathLib/1.0.0": {
+        "runtime": {
+          "MathLib.dll": {}
+        }
+      },
+      "OfficeLib/1.0.0": {
+        "dependencies": {
+          "Printables": "1.0.0",
+          "WorkersLib": "1.0.0"
+        },
+        "runtime": {
+          "OfficeLib.dll": {}
+        }
+      },
+      "Printables/1.0.0": {
+        "runtime": {
+          "Printables.dll": {}
+        }
+      },
+      "WorkersLib/1.0.0": {
+        "dependencies": {
+          "Printables": "1.0.0"
+        },
+        "runtime": {
+          "WorkersLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MathLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OfficeLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Printables/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WorkersLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

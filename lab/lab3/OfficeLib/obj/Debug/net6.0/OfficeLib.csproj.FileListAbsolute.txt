@@ -1,0 +1,17 @@
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab3/OfficeLib/obj/Debug/net6.0/OfficeLib.csproj.AssemblyReference.cache
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab3/OfficeLib/obj/Debug/net6.0/OfficeLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab3/OfficeLib/obj/Debug/net6.0/OfficeLib.AssemblyInfoInputs.cache
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab3/OfficeLib/obj/Debug/net6.0/OfficeLib.AssemblyInfo.cs
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab3/OfficeLib/obj/Debug/net6.0/OfficeLib.csproj.CoreCompileInputs.cache
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab3/OfficeLib/bin/Debug/net6.0/OfficeLib.deps.json
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab3/OfficeLib/bin/Debug/net6.0/OfficeLib.dll
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab3/OfficeLib/bin/Debug/net6.0/ref/OfficeLib.dll
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab3/OfficeLib/bin/Debug/net6.0/OfficeLib.pdb
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab3/OfficeLib/bin/Debug/net6.0/Printables.dll
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab3/OfficeLib/bin/Debug/net6.0/WorkersLib.dll
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab3/OfficeLib/bin/Debug/net6.0/WorkersLib.pdb
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab3/OfficeLib/bin/Debug/net6.0/Printables.pdb
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab3/OfficeLib/obj/Debug/net6.0/OfficeLib.csproj.CopyComplete
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab3/OfficeLib/obj/Debug/net6.0/OfficeLib.dll
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab3/OfficeLib/obj/Debug/net6.0/ref/OfficeLib.dll
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab3/OfficeLib/obj/Debug/net6.0/OfficeLib.pdb

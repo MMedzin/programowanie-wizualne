@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "App/1.0.0": {
+        "dependencies": {
+          "ArraysLib": "1.0.0",
+          "TypesLib": "1.0.0",
+          "WatchLib": "1.0.0"
+        },
+        "runtime": {
+          "App.dll": {}
+        }
+      },
+      "ArraysLib/1.0.0": {
+        "runtime": {
+          "ArraysLib.dll": {}
+        }
+      },
+      "TypesLib/1.0.0": {
+        "runtime": {
+          "TypesLib.dll": {}
+        }
+      },
+      "WatchLib/1.0.0": {
+        "runtime": {
+          "WatchLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ArraysLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TypesLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WatchLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

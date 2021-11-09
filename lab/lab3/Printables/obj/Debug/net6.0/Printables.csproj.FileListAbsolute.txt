@@ -1,0 +1,12 @@
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab3/Printables/obj/Debug/net6.0/Printables.csproj.AssemblyReference.cache
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab3/Printables/obj/Debug/net6.0/Printables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab3/Printables/obj/Debug/net6.0/Printables.AssemblyInfoInputs.cache
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab3/Printables/obj/Debug/net6.0/Printables.AssemblyInfo.cs
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab3/Printables/obj/Debug/net6.0/Printables.csproj.CoreCompileInputs.cache
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab3/Printables/bin/Debug/net6.0/Printables.deps.json
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab3/Printables/bin/Debug/net6.0/Printables.dll
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab3/Printables/bin/Debug/net6.0/ref/Printables.dll
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab3/Printables/bin/Debug/net6.0/Printables.pdb
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab3/Printables/obj/Debug/net6.0/Printables.dll
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab3/Printables/obj/Debug/net6.0/ref/Printables.dll
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab3/Printables/obj/Debug/net6.0/Printables.pdb

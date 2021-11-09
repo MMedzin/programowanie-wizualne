@@ -1,0 +1,12 @@
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab1/TypesLib/bin/Debug/net6.0/TypesLib.deps.json
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab1/TypesLib/bin/Debug/net6.0/TypesLib.dll
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab1/TypesLib/bin/Debug/net6.0/ref/TypesLib.dll
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab1/TypesLib/bin/Debug/net6.0/TypesLib.pdb
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab1/TypesLib/obj/Debug/net6.0/TypesLib.csproj.AssemblyReference.cache
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab1/TypesLib/obj/Debug/net6.0/TypesLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab1/TypesLib/obj/Debug/net6.0/TypesLib.AssemblyInfoInputs.cache
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab1/TypesLib/obj/Debug/net6.0/TypesLib.AssemblyInfo.cs
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab1/TypesLib/obj/Debug/net6.0/TypesLib.csproj.CoreCompileInputs.cache
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab1/TypesLib/obj/Debug/net6.0/TypesLib.dll
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab1/TypesLib/obj/Debug/net6.0/ref/TypesLib.dll
+/Users/mikemedzin/Documents/studia/semestr_7/PW/lab/lab1/TypesLib/obj/Debug/net6.0/TypesLib.pdb
