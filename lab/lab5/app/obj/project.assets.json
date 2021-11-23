@@ -1,0 +1,107 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "ExtensionsLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ExtensionsLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ExtensionsLib.dll": {}
+        }
+      },
+      "PointLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/PointLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PointLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExtensionsLib/1.0.0": {
+      "type": "project",
+      "path": "../ExtensionsLib/ExtensionsLib.csproj",
+      "msbuildProject": "../ExtensionsLib/ExtensionsLib.csproj"
+    },
+    "PointLib/1.0.0": {
+      "type": "project",
+      "path": "../PointLib/PointLib.csproj",
+      "msbuildProject": "../PointLib/PointLib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "ExtensionsLib >= 1.0.0",
+      "PointLib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/mikemedzin/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/mikemedzin/Documents/studia/semestr_7/PW/programowanie-wizualne/lab/lab5/app/app.csproj",
+      "projectName": "app",
+      "projectPath": "/Users/mikemedzin/Documents/studia/semestr_7/PW/programowanie-wizualne/lab/lab5/app/app.csproj",
+      "packagesPath": "/Users/mikemedzin/.nuget/packages/",
+      "outputPath": "/Users/mikemedzin/Documents/studia/semestr_7/PW/programowanie-wizualne/lab/lab5/app/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/mikemedzin/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/Users/mikemedzin/Documents/studia/semestr_7/PW/programowanie-wizualne/lab/lab5/ExtensionsLib/ExtensionsLib.csproj": {
+              "projectPath": "/Users/mikemedzin/Documents/studia/semestr_7/PW/programowanie-wizualne/lab/lab5/ExtensionsLib/ExtensionsLib.csproj"
+            },
+            "/Users/mikemedzin/Documents/studia/semestr_7/PW/programowanie-wizualne/lab/lab5/PointLib/PointLib.csproj": {
+              "projectPath": "/Users/mikemedzin/Documents/studia/semestr_7/PW/programowanie-wizualne/lab/lab5/PointLib/PointLib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100-preview.3.21202.5/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

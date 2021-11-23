@@ -1,0 +1,12 @@
+/Users/mikemedzin/Documents/studia/semestr_7/PW/programowanie-wizualne/lab/lab5/ExtensionsLib/obj/Debug/net6.0/ExtensionsLib.csproj.AssemblyReference.cache
+/Users/mikemedzin/Documents/studia/semestr_7/PW/programowanie-wizualne/lab/lab5/ExtensionsLib/obj/Debug/net6.0/ExtensionsLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikemedzin/Documents/studia/semestr_7/PW/programowanie-wizualne/lab/lab5/ExtensionsLib/obj/Debug/net6.0/ExtensionsLib.AssemblyInfoInputs.cache
+/Users/mikemedzin/Documents/studia/semestr_7/PW/programowanie-wizualne/lab/lab5/ExtensionsLib/obj/Debug/net6.0/ExtensionsLib.AssemblyInfo.cs
+/Users/mikemedzin/Documents/studia/semestr_7/PW/programowanie-wizualne/lab/lab5/ExtensionsLib/obj/Debug/net6.0/ExtensionsLib.csproj.CoreCompileInputs.cache
+/Users/mikemedzin/Documents/studia/semestr_7/PW/programowanie-wizualne/lab/lab5/ExtensionsLib/bin/Debug/net6.0/ExtensionsLib.deps.json
+/Users/mikemedzin/Documents/studia/semestr_7/PW/programowanie-wizualne/lab/lab5/ExtensionsLib/bin/Debug/net6.0/ExtensionsLib.dll
+/Users/mikemedzin/Documents/studia/semestr_7/PW/programowanie-wizualne/lab/lab5/ExtensionsLib/bin/Debug/net6.0/ref/ExtensionsLib.dll
+/Users/mikemedzin/Documents/studia/semestr_7/PW/programowanie-wizualne/lab/lab5/ExtensionsLib/bin/Debug/net6.0/ExtensionsLib.pdb
+/Users/mikemedzin/Documents/studia/semestr_7/PW/programowanie-wizualne/lab/lab5/ExtensionsLib/obj/Debug/net6.0/ExtensionsLib.dll
+/Users/mikemedzin/Documents/studia/semestr_7/PW/programowanie-wizualne/lab/lab5/ExtensionsLib/obj/Debug/net6.0/ref/ExtensionsLib.dll
+/Users/mikemedzin/Documents/studia/semestr_7/PW/programowanie-wizualne/lab/lab5/ExtensionsLib/obj/Debug/net6.0/ExtensionsLib.pdb

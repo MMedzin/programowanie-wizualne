@@ -1,0 +1,12 @@
+/Users/mikemedzin/Documents/studia/semestr_7/PW/programowanie-wizualne/lab/lab5/PointLib/bin/Debug/net6.0/PointLib.deps.json
+/Users/mikemedzin/Documents/studia/semestr_7/PW/programowanie-wizualne/lab/lab5/PointLib/bin/Debug/net6.0/PointLib.dll
+/Users/mikemedzin/Documents/studia/semestr_7/PW/programowanie-wizualne/lab/lab5/PointLib/bin/Debug/net6.0/ref/PointLib.dll
+/Users/mikemedzin/Documents/studia/semestr_7/PW/programowanie-wizualne/lab/lab5/PointLib/bin/Debug/net6.0/PointLib.pdb
+/Users/mikemedzin/Documents/studia/semestr_7/PW/programowanie-wizualne/lab/lab5/PointLib/obj/Debug/net6.0/PointLib.csproj.AssemblyReference.cache
+/Users/mikemedzin/Documents/studia/semestr_7/PW/programowanie-wizualne/lab/lab5/PointLib/obj/Debug/net6.0/PointLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikemedzin/Documents/studia/semestr_7/PW/programowanie-wizualne/lab/lab5/PointLib/obj/Debug/net6.0/PointLib.AssemblyInfoInputs.cache
+/Users/mikemedzin/Documents/studia/semestr_7/PW/programowanie-wizualne/lab/lab5/PointLib/obj/Debug/net6.0/PointLib.AssemblyInfo.cs
+/Users/mikemedzin/Documents/studia/semestr_7/PW/programowanie-wizualne/lab/lab5/PointLib/obj/Debug/net6.0/PointLib.csproj.CoreCompileInputs.cache
+/Users/mikemedzin/Documents/studia/semestr_7/PW/programowanie-wizualne/lab/lab5/PointLib/obj/Debug/net6.0/PointLib.dll
+/Users/mikemedzin/Documents/studia/semestr_7/PW/programowanie-wizualne/lab/lab5/PointLib/obj/Debug/net6.0/ref/PointLib.dll
+/Users/mikemedzin/Documents/studia/semestr_7/PW/programowanie-wizualne/lab/lab5/PointLib/obj/Debug/net6.0/PointLib.pdb

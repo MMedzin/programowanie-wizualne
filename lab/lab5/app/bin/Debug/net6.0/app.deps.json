@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "app/1.0.0": {
+        "dependencies": {
+          "ExtensionsLib": "1.0.0",
+          "PointLib": "1.0.0"
+        },
+        "runtime": {
+          "app.dll": {}
+        }
+      },
+      "ExtensionsLib/1.0.0": {
+        "runtime": {
+          "ExtensionsLib.dll": {}
+        }
+      },
+      "PointLib/1.0.0": {
+        "runtime": {
+          "PointLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "app/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExtensionsLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PointLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
